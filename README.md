@@ -21,5 +21,5 @@ If you’re working on something exciting or want to build together, feel free t
 
 ## Get in Touch
 
-📧 You can contact me at: **[your.email@example.com](mailto:your.email@example.com)**  
-🌐 Portfolio coming soon!
+📧 You can contact me at: **[rookiedev.mujahid@gmail.com]**  
+Portfolio: mujahid-portfolio-pearl.vercel.app
